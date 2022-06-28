@@ -1,0 +1,20 @@
+.navbar-brand {
+  font-size: larger;
+}
+h1 {
+  color: whitesmoke;
+  font-size: 20px !important;
+}
+.flex-container {
+  display: flex !important;
+}
+.btn {
+  background-color: #e31837 !important;
+}
+.btn:hover {
+  background-color: #ffc500 !important;
+}
+select {
+  box-shadow: none !important ;
+  border-color: black !important;
+}
